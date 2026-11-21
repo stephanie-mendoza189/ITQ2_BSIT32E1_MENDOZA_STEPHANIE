@@ -1,0 +1,6 @@
+@ITQ2_BSIT32E1_MENDOZA_STEPHANIE_HostAddress = http://localhost:5054
+
+GET {{ITQ2_BSIT32E1_MENDOZA_STEPHANIE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
